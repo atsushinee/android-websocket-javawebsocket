@@ -1,0 +1,2 @@
+# websocket-android-javawebsocket
+javawebsocket jar包实现androidwebsocket客户端，长数据接受不到
